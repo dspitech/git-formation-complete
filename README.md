@@ -1,19 +1,20 @@
 # Cours Complet Git 
 
-Nom : Lo | Prénom : Pape | Email : pape.lo@estiam.co
+### Nom : Lo | Prénom : Pape | Email : pape.lo@estiam.co
 
 <div align="center">
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Afficher l'image
 
-Formation complète et pratique sur Git : 24 modules, théorie et labs guidés
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Version Control](https://img.shields.io/badge/Version%20Control-VCS-blue?style=for-the-badge)
+![Workflow](https://img.shields.io/badge/Workflow-GitHub_Flow-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Niveau](https://img.shields.io/badge/Niveau-Débutant_à_Expert-brightgreen?style=for-the-badge)
 
-Version 1.0 - Branches · Rebase · Conflits · Workflows · Internals
+**Formation complète et pratique sur Git : 24 modules, théorie et labs guidés**
 
-Sommaire • Modules • Labs pratiques • Workflows • Projet final
+*Version 1.0 - Branches · Rebase · Conflits · Workflows · Internals*
+
+[Sommaire](#-sommaire) • [Modules](#-comment-utiliser-ce-cours) • [Labs pratiques](#module-2--le-dépôt-local--init-add-commit) • [Workflows](#module-9--workflows-déquipe-git-flow-github-flow-trunk-based) • [Projet final](#annexe-b--projet-final-récapitulatif)
 
 </div>
 
