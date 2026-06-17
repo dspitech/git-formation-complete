@@ -1,5 +1,22 @@
 # Cours Complet Git 
 
+Nom : Lo | Prénom : Pape | Email : pape.lo@estiam.co
+
+<div align="center">
+Afficher l'image
+Afficher l'image
+Afficher l'image
+Afficher l'image
+Afficher l'image
+
+Formation complète et pratique sur Git : 24 modules, théorie et labs guidés
+
+Version 1.0 - Branches · Rebase · Conflits · Workflows · Internals
+
+Sommaire • Modules • Labs pratiques • Workflows • Projet final
+
+</div>
+
 > Formation professionnelle complète sur Git : théorie, pratique intensive, labs guidés et exercices réels. Chaque module contient des explications, des commandes commentées, des schémas conceptuels et des labs à faire vous-même dans un terminal.
 
 ---
