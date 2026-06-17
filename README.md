@@ -1,4 +1,4 @@
-# Cours Complet Git - De Débutant à Expert
+# Cours Complet Git 
 
 > Formation professionnelle complète sur Git : théorie, pratique intensive, labs guidés et exercices réels. Chaque module contient des explications, des commandes commentées, des schémas conceptuels et des labs à faire vous-même dans un terminal.
 
